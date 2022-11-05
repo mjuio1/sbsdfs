@@ -1,0 +1,22 @@
+﻿vmess://ws+tls:2a4918de-adce-4c4e-aa00-88a4227cf6ea-0@taobao.babazhuji.com:443/?path=taobao.babazhuji.com# 美国 13 14-1
+
+vmess://ws+tls:6b855dbd-3f5a-4a8b-8338-73ab337eb8e6-0@m1.pianyijc.top:31210/?path=m1.pianyijc.top#  日本东京数据5  14-2
+
+vmess://ws+tls:2a4918de-adce-4c4e-aa00-88a4227cf6ea-0@146.190.2.54:443/?path=146.190.2.54#  美国 17 14-3
+
+vmess://ws+tls:11f3465a-f0bc-4d97-98cd-6892d0ef61d5-0@198.41.209.214:443/?host=hinet.meizhiyuanya.xyz&path=/guolicheng/hinet?ed%3D2048&tlsServerName=hinet.meizhiyuanya.xyz#  美国CloudFlare节点 11  14-4
+
+vmess://ws+tls:91646f9a-b4e9-4aca-bfe3-8892b3e58fe7-0@8.209.69.168:443/?host=lg30.cfcdn3.xyz&path=/ray&tlsServerName=lg30.cfcdn3.xyz#德国(油管:破解资源君2.0)10-1
+
+vmess://ws+tls:4db99e96-3ee3-419c-b1fb-856975801380-64@172.67.196.0:443/?host=localhoster.ml&path=/ray&tlsServerName=localhoster.ml#日本(油管:破解资源君2.0)10-2
+
+vmess://ws+tls:572126f8-5301-83c2-0a26-c30ced3db7c4-0@152.228.191.232:443/?host=goodfamily19.site&path=/wmzmvws&tlsServerName=goodfamily19.site#日本(10-3)
+
+vmess://ws+tls:f33957e8-372e-4fba-99ed-f4db32cce9e5-0@172.64.148.111:443/?host=fr2.cfcdn4.xyz&path=/ray&tlsServerName=fr2.cfcdn4.xyz#欧洲(10-4)
+
+vmess://ws+tls:0479eb9d-999d-4bff-ae3f-4f7cc440ce46-0@128.14.140.254:443/?host=v2ray2.ssr-free2.xyz&path=/dongtaiwang.com&tlsServerName=v2ray2.ssr-free2.xyz#欧洲(10-6)
+
+vmess://ws+tls:0479eb9d-999d-4bff-ae3f-4f7cc440ce46-0@66.212.20.3:443/?host=v2ray2.ssr-free2.xyz&path=/dongtaiwang.com&tlsServerName=v2ray2.ssr-free2.xyz#欧洲(10-5)
+
+vmess://ws+tls:91646f9a-b4e9-4aca-bfe3-8892b3e58fe7-0@8.209.69.168:443/?host=lg30.cfcdn3.xyz&path=/ray&tlsServerName=lg30.cfcdn3.xyz#德国(10-7)
+
