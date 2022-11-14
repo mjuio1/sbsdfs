@@ -19,4 +19,4 @@ vmess://ws+tls:0479eb9d-999d-4bff-ae3f-4f7cc440ce46-0@128.14.140.254:443/?host=v
 vmess://ws+tls:0479eb9d-999d-4bff-ae3f-4f7cc440ce46-0@66.212.20.3:443/?host=v2ray2.ssr-free2.xyz&path=/dongtaiwang.com&tlsServerName=v2ray2.ssr-free2.xyz#欧洲(10-5)
 
 vmess://ws+tls:91646f9a-b4e9-4aca-bfe3-8892b3e58fe7-0@8.209.69.168:443/?host=lg30.cfcdn3.xyz&path=/ray&tlsServerName=lg30.cfcdn3.xyz#德国(10-7)
-
+less://8ed9a5b9-94aa-4e60-bce3-a139f7b603f6@yuh9.gherbdf.tk:443?flow=&encryption=none&security=tls&sni=yuh9.gherbdf.tk&type=ws&host=yuh9.gherbdf.tk&path=/8ed9a5b9-94aa-4e60-bce3-a139f7b603f6-vless&headerType=none&alpn=#yuh9.gherbdf.tk 
