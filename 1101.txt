@@ -1,4 +1,4 @@
-?vmess://ws+tls:2a4918de-adce-4c4e-aa00-88a4227cf6ea-0@taobao.babazhuji.com:443/?path=taobao.babazhuji.com# 美国 13 14-1
+vmess://ws+tls:2a4918de-adce-4c4e-aa00-88a4227cf6ea-0@taobao.babazhuji.com:443/?path=taobao.babazhuji.com# 美国 13 14-1
 
 vmess://ws+tls:6b855dbd-3f5a-4a8b-8338-73ab337eb8e6-0@m1.pianyijc.top:31210/?path=m1.pianyijc.top#  日本东京数据5  14-2
 
@@ -20,3 +20,6 @@ vmess://ws+tls:0479eb9d-999d-4bff-ae3f-4f7cc440ce46-0@66.212.20.3:443/?host=v2ra
 
 vmess://ws+tls:91646f9a-b4e9-4aca-bfe3-8892b3e58fe7-0@8.209.69.168:443/?host=lg30.cfcdn3.xyz&path=/ray&tlsServerName=lg30.cfcdn3.xyz#德国(10-7)
 less://8ed9a5b9-94aa-4e60-bce3-a139f7b603f6@yuh9.gherbdf.tk:443?flow=&encryption=none&security=tls&sni=yuh9.gherbdf.tk&type=ws&host=yuh9.gherbdf.tk&path=/8ed9a5b9-94aa-4e60-bce3-a139f7b603f6-vless&headerType=none&alpn=#yuh9.gherbdf.tk 
+vless://b0675705-e3c7-4640-b286-29216a598d97@172.67.173.143:2083?flow=&encryption=none&security=tls&sni=DmskSjskJssj.mehdik.homes&type=ws&host=PAnel95216.MEhdik.HOmes&path=/sksks&headerType=none&alpn=&fp=&pbk=&sid=&spx=#????USRelay_????US-????US_213 
+
+vmess://eyJ2IjoiMiIsImFkZCI6IjM4LjE4MC4zMy4xMzYiLCJwb3J0Ijo1MDEwNCwic2N5IjoiYXV0byIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwibmV0IjoidGNwIiwiaWQiOiI3OTBmNjgwMi03NTM1LTQxMDktZGU2ZC0xNWY2NzZkNWUzZjciLCJhbHBuIjoiIiwiZnAiOiIiLCJhaWQiOjAsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
